@@ -31,6 +31,6 @@ const ReactionSchema = new Schema(
   }
 );
 
-//const Reaction = model("reaction", ReactionSchema);
+// const Reaction = model("reaction", ReactionSchema);
 
 module.exports = ReactionSchema;
